@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'KamleshPortfolio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8C54DF3F8614938A15E417E57DC82F2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68E54B2B73A24118BBA3BED8384330A7 }}
