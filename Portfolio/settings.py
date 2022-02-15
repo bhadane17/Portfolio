@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-b3o=f+mk!ov0b!n+#7(a@q6&w^f=te#hw-ke=2!#4b&2kknaqb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kamleshportfolio.azurewebsites.net', 'https://kamleshportfolio.azurewebsites.net/']
+ALLOWED_HOSTS = ['kamleshportfolio.azurewebsites.net', 'https://kamleshportfolio.azurewebsites.net/', '127.0.0.1']
 
 
 
